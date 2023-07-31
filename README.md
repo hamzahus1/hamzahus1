@@ -1,10 +1,10 @@
-### Hi there 👋,I'm  Hamza
-#### UI / UX Designer
-![UI / UX Designer](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
+### Hi there 👋,I'm Hamza
+#### Product Designer
+![Building things people love to use_](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
-My name is Hamza, a Web Designer and Logo Designer with a wide range of expertise in UI and UX Design, make Expert Logos. I have over a decade of experience in creating web, mobile and tablet user interfaces, and experiences from both, creative and analytical sides. I am able to plan, budget and manage an entire site or app creation process from start to finish.
+My name is Hamza Oblouch and I come from Agadir, a beautiful city in the southern part of Morocco. I was born in Tagazought, a small town near Agadir, and spent most of my childhood there. Growing up, I was always fascinated by design and the creative process behind it.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / D3 / Webflow
 
 - 🔭 I’m currently working on UX cABIN 
 - 🌱 I’m currently learning more 
@@ -18,4 +18,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Hamza)  
+![Profile views](hanzaoblouch.com)  
