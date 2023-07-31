@@ -6,7 +6,7 @@ My name is Hamza, a Web Designer and Logo Designer with a wide range of expertis
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on owwco 
+- 🔭 I’m currently working on UX cABIN 
 - 🌱 I’m currently learning more 
 - 💬 Ask me about anything  
 - 📫 How to reach me: Instagram  
